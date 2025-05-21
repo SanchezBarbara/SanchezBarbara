@@ -19,7 +19,7 @@
 ![I Love You Flirt GIF by Offline Granny!](https://github.com/user-attachments/assets/f610fd0d-31a5-46e5-87d3-c32c0718f913)
 
 
-![Logo marca](https://github.com/user-attachments/assets/ecb8d71a-5171-402e-b9e8-3618d3c00611)
+
 
 
 
