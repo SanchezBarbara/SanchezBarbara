@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barbara</h1>
 <h3 align="center">A passionate Argentinian Data Analyst living in Italy</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Hi-I-m-Barbara-1f867ab6cee5805896b7cfbdd20ac94a?pvs=4](https://www.notion.so/Hi-I-m-Barbara-1f867ab6cee5805896b7cfbdd20ac94a?pvs=4)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/esp-barbara-sanchez-data-analy/p%C3%A1gina-principal)
 
 - 📫 How to reach me **BarbaraSanchez.DA@gmail.com**
 
