@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Barbara</h1>
 <h3 align="center">A passionate Argentinian Data Analyst living in Italy</h3>
 
-- [👉 View My Portfolio](https://sites.google.com/view/esp-barbara-sanchez-data-analy/p%C3%A1gina-principal)
+- [👉 View My Portfolio](https://sites.google.com/view/engbarbarasanchezdataanalyst/p%C3%A1gina-principal)
+
 
 
 
